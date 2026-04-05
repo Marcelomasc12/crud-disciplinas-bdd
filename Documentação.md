@@ -69,6 +69,7 @@ crud-disciplinas-bdd/
 │   └── test_delete.py
 ├── requirements.txt
 └── README.md
+```
 
 O arquivo disciplina.py representa a estrutura de uma disciplina, contendo seus atributos principais, como id, título, datas, número de vagas e se é disciplina de verão.
 
