@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": 1,
+        "titulo": "Redes",
+        "data_inicio": "2026-03-01",
+        "data_termino": "2026-07-10",
+        "numero_vagas": 50,
+        "verao": false
+    }
+]
