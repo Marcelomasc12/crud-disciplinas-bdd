@@ -3,7 +3,9 @@
 ## CRUD de Disciplinas com Testes Automatizados, BDD e GitHub Actions
 
 **Alunos:** Marcelo Negrão Mascarenhas Filho, Luísa Castro Santos
+
 **Disciplina:** Teste e Qualidade de Software
+
 **Professor:** Neuton Melo
 
 ---
