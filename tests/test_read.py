@@ -24,3 +24,6 @@ def test_listar_disciplinas():
     assert disciplinas[0]["id"] == 1
     assert disciplinas[0]["titulo"] == "Banco de Dados"
     assert disciplinas[0]["numero_vagas"] == 40
+
+disciplinas = listar_disciplinas()
+print(disciplinas)
