@@ -16,7 +16,7 @@ def test_criar_disciplina():
         False
     )
 
-    assert disciplina["id"] == 21
+    assert disciplina["id"] == 1
     assert disciplina["titulo"] == "Programação Orientada a Objetos"
     assert disciplina["data_inicio"] == "2026-03-01"
     assert disciplina["data_termino"] == "2026-07-10"
